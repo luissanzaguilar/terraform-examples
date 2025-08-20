@@ -1,2 +1,6 @@
 terraform workspace new dev
 terraform workspace list
+
+
+
+# terraform podría ir en git hub actions tb
